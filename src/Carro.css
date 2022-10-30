@@ -20,7 +20,7 @@
 
 .hb::before,
 .ha::after {
-  content: '';
+  content: ''; 
   display: block;
   position: absolute;
 }
